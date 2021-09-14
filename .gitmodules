@@ -1,0 +1,9 @@
+[submodule "interactive_devices/class"]
+	path = interactive_devices/class
+	url = git@github.com:jschmidtnj/Developing-and-Designing-Interactive-Devices.git
+[submodule "interactive_devices/labs"]
+	path = interactive_devices/labs
+	url = git@github.com:jschmidtnj/Interactive-Lab-Hub.git
+[submodule "mle"]
+	path = mle
+	url = git@github.com:jschmidtnj/mle.git
