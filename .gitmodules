@@ -7,3 +7,6 @@
 [submodule "mle"]
 	path = mle
 	url = git@github.com:jschmidtnj/mle.git
+[submodule "vr_ar"]
+	path = vr_ar
+	url = git@github.com:jschmidtnj/vr_ar.git
