@@ -10,3 +10,6 @@
 [submodule "vr_ar"]
 	path = vr_ar
 	url = git@github.com:jschmidtnj/vr_ar.git
+[submodule "algo"]
+	path = algo
+	url = git@github.com:jschmidtnj/algo.git
