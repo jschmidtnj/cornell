@@ -13,3 +13,6 @@
 [submodule "algo"]
 	path = algo
 	url = git@github.com:jschmidtnj/algo.git
+[submodule "productstudio"]
+	path = productstudio
+	url = git@github.com:jschmidtnj/productstudio.git
