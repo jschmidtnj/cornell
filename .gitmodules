@@ -16,3 +16,9 @@
 [submodule "productstudio"]
 	path = productstudio
 	url = git@github.com:jschmidtnj/productstudio.git
+[submodule "resume"]
+	path = resume
+	url = git@github.com:jschmidtnj/resume.git
+[submodule "interviews"]
+	path = interviews
+	url = git@github.com:jschmidtnj/interviews.git
