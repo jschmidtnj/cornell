@@ -28,3 +28,6 @@
 [submodule "deeplearning"]
 	path = deeplearning
 	url = git@github.com:jschmidtnj/deeplearning.git
+[submodule "ml_hardware"]
+	path = ml_hardware
+	url = git@github.com:jschmidtnj/ml_hardware.git
