@@ -22,3 +22,9 @@
 [submodule "interviews"]
 	path = interviews
 	url = git@github.com:jschmidtnj/interviews.git
+[submodule "mlhardware/assignments/a0"]
+	path = mlhardware/assignments/a0
+	url = git@github.com:ML-HW-SYS/a0-jschmidtnj.git
+[submodule "deeplearning"]
+	path = deeplearning
+	url = git@github.com:jschmidtnj/deeplearning.git
