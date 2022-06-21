@@ -31,3 +31,12 @@
 [submodule "ml_hardware"]
 	path = ml_hardware
 	url = git@github.com:jschmidtnj/ml_hardware.git
+[submodule "ubicomp"]
+	path = ubicomp
+	url = git@github.com:jschmidtnj/ubicomp.git
+[submodule "flex"]
+	path = flex
+	url = git@github.com:ai-flex/flex.git
+[submodule "blockchain"]
+	path = blockchain
+	url = git@github.com:jschmidtnj/blockchain.git
